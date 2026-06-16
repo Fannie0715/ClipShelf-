@@ -63,7 +63,7 @@ The repository should not store these binaries directly.
 npm install
 npm run typecheck
 npm run build
-rg -n "token|secret|password|/Users/|Obsidian Vault" . --glob '!node_modules/**' --glob '!dist/**'
+rg -n "token|secret|password|local user path|private vault" . --glob '!node_modules/**' --glob '!dist/**'
 ```
 
 Review all matches before publishing.
