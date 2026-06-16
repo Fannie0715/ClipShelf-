@@ -16,6 +16,7 @@
   "scripts": {
     "dev": "node scripts/dev.mjs",
     "build": "tsc --noEmit && vite build",
+    "package:mac": "npm run build && node scripts/package-mac.mjs",
     "make-launcher": "node scripts/create-launcher.mjs",
     "start": "electron .",
     "typecheck": "tsc --noEmit"

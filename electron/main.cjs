@@ -16,7 +16,7 @@ const os = require("node:os");
 const path = require("node:path");
 const { execFile } = require("node:child_process");
 
-const APP_NAME = "Clipboard Sidebar";
+const APP_NAME = "ClipShelf";
 const RETENTION_DAYS = 7;
 const CLIPBOARD_LIBRARY_NAME = "复制素材库";
 const DEFAULT_VAULT_PATH = path.join(os.homedir(), "Documents", "Obsidian Vault");
@@ -532,7 +532,7 @@ async function scanClipboard() {
   try {
     await pollClipboard();
   } catch (error) {
-    console.error("[clipboard-sidebar] clipboard scan failed", error);
+    console.error("[clipshelf] clipboard scan failed", error);
   } finally {
     isPollingClipboard = false;
   }
@@ -983,7 +983,7 @@ function createTray() {
   tray.setToolTip(APP_NAME);
   const menu = Menu.buildFromTemplate([
     {
-      label: "Show Clipboard Sidebar",
+      label: "Show ClipShelf",
       click: () => {
         showMainWindow();
       }

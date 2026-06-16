@@ -49,6 +49,28 @@
 6. 点击保存，素材会写入 Obsidian 的「复制素材库」。
 7. 遇到敏感内容时，可以随时暂停捕捉，也可以清空本地暂存记录。
 
+## 下载 Mac App
+
+普通用户不需要下载源码。正式使用时，请到 GitHub 右侧或顶部的 **Releases** 页面下载：
+
+```text
+ClipShelf-mac-arm64.zip
+```
+
+下载后解压，双击 `ClipShelf.app` 即可打开。由于当前 MVP 版本还没有 Apple Developer 签名和 notarization，第一次打开时 macOS 可能会提示无法验证开发者。可以右键点击 `ClipShelf.app`，选择 **Open / 打开**，再确认打开。
+
+开发者如果想自己生成安装包，可以运行：
+
+```bash
+npm run package:mac
+```
+
+生成的文件会在：
+
+```text
+release/ClipShelf-mac-arm64.zip
+```
+
 ## 本地运行
 
 ### 环境要求
