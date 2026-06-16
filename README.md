@@ -8,6 +8,12 @@
 
 ## 效果演示
 
+### 产品预览图
+
+![ClipShelf preview](docs/images/clipshelf-preview.svg)
+
+### 流程动图
+
 ![ClipShelf demo](docs/images/clipshelf-demo.gif)
 
 [观看 30 秒高清双语介绍视频 / Watch the 30s HD intro video](docs/videos/clipshelf-intro.mp4)
