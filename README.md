@@ -6,7 +6,11 @@
 
 每天复制的信息太多，很容易忘记“这段话是从哪个网页、哪个 App、哪个上下文里复制来的”。ClipShelf 会把复制过的内容先自动收进本地侧边栏收藏夹：你可以搜索、预览、二次编辑，确认有用后再一键保存到 Obsidian 的「复制素材库」里。
 
+## 效果演示
+
 ![ClipShelf preview](docs/images/clipshelf-preview.svg)
+
+[观看 30 秒双语介绍视频 / Watch the 30s intro video](docs/videos/clipshelf-intro.mp4)
 
 ## 适合谁
 
