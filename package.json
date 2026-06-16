@@ -1,0 +1,37 @@
+{
+  "name": "clipshelf",
+  "version": "0.1.0",
+  "description": "A context-aware shelf for everything you copy.",
+  "license": "MIT",
+  "keywords": [
+    "clipboard",
+    "electron",
+    "macos",
+    "obsidian",
+    "productivity",
+    "react",
+    "typescript"
+  ],
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "tsc --noEmit && vite build",
+    "make-launcher": "node scripts/create-launcher.mjs",
+    "start": "electron .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "electron": "^31.2.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
+  }
+}

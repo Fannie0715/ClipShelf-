@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+out/
+release/
+*.dmg
+*.zip
+*.app
+
+# Local app data and generated assets
+data/
+assets/
+screenshots/
+clipboard-store.json
+*.log
+
+# Environment and machine-local files
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# Editor and tooling
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test and coverage output
+coverage/
+.nyc_output/
