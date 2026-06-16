@@ -1,0 +1,62 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ClipShelf preview</title>
+  <desc id="desc">A clean macOS-style preview of the ClipShelf floating launcher, clipboard library, source context and Obsidian save flow.</desc>
+  <rect width="1280" height="720" rx="32" fill="#F7FAFD"/>
+  <rect x="30" y="30" width="1220" height="660" rx="28" fill="#EEF5FC" stroke="#D8E4F0"/>
+  <circle cx="62" cy="58" r="8" fill="#FF5F57"/>
+  <circle cx="88" cy="58" r="8" fill="#FFBD2E"/>
+  <circle cx="114" cy="58" r="8" fill="#28C840"/>
+  <text x="58" y="108" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="34" font-weight="800">ClipShelf · 复制素材库</text>
+  <text x="58" y="142" fill="#6B7A8C" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="18">A context-aware shelf for everything you copy.</text>
+
+  <rect x="56" y="180" width="404" height="444" rx="22" fill="white" stroke="#D8E4F0"/>
+  <rect x="84" y="210" width="348" height="48" rx="14" fill="#F2F6FA" stroke="#DDE8F3"/>
+  <text x="112" y="241" fill="#9AACBD" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="18">搜索内容、来源或项目</text>
+  <rect x="84" y="278" width="348" height="76" rx="16" fill="#E8F3FF" stroke="#8FC4FF"/>
+  <rect x="108" y="299" width="34" height="34" rx="10" fill="#D4E9FF"/>
+  <text x="158" y="315" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">复制过的网页段落会自动进来...</text>
+  <text x="158" y="340" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15">Chrome · 14:35 · 已保存链接</text>
+  <rect x="84" y="372" width="348" height="76" rx="16" fill="#F8FBFE" stroke="#DFEAF4"/>
+  <rect x="108" y="393" width="34" height="34" rx="10" fill="#E9F2FD"/>
+  <text x="158" y="409" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">聊天里的选题灵感...</text>
+  <text x="158" y="434" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15">WeChat · 14:31 · 截图上下文</text>
+  <rect x="84" y="466" width="348" height="76" rx="16" fill="#F8FBFE" stroke="#DFEAF4"/>
+  <rect x="108" y="487" width="34" height="34" rx="10" fill="#FFF0DE"/>
+  <text x="158" y="503" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Copied image</text>
+  <text x="158" y="528" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15">Preview · 14:22</text>
+
+  <rect x="500" y="180" width="452" height="444" rx="22" fill="white" stroke="#D8E4F0"/>
+  <rect x="532" y="214" width="76" height="34" rx="16" fill="#E3F0FF"/>
+  <text x="555" y="237" fill="#2375C9" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">文本</text>
+  <text x="532" y="292" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="34" font-weight="850">先收集，再判断是否入库</text>
+  <text x="532" y="326" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="17">Command + C · 来源链接 · 截图上下文</text>
+  <rect x="532" y="370" width="180" height="190" rx="16" fill="#FAFCFE" stroke="#DFEAF4"/>
+  <text x="552" y="406" fill="#607286" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">内容</text>
+  <text x="552" y="448" fill="#243241" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="17">保存前可以</text>
+  <text x="552" y="476" fill="#243241" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="17">二次编辑正文、</text>
+  <text x="552" y="504" fill="#243241" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="17">标题和分类。</text>
+  <rect x="736" y="370" width="184" height="190" rx="16" fill="#FAFCFE" stroke="#DFEAF4"/>
+  <text x="756" y="406" fill="#607286" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">复制位置</text>
+  <rect x="756" y="430" width="142" height="82" rx="10" fill="#EAF2FA" stroke="#D2E0ED"/>
+  <rect x="770" y="444" width="114" height="10" rx="5" fill="#B9CCE0"/>
+  <rect x="770" y="466" width="88" height="10" rx="5" fill="#C9D8E8"/>
+  <rect x="770" y="488" width="102" height="10" rx="5" fill="#C9D8E8"/>
+  <text x="756" y="540" fill="#2375C9" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15">https://example.com</text>
+
+  <rect x="990" y="150" width="214" height="500" rx="34" fill="#FFFFFF" stroke="#D8E4F0"/>
+  <circle cx="1097" cy="226" r="50" fill="#EAF2FA"/>
+  <text x="1063" y="237" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="27" font-weight="850">复制</text>
+  <rect x="1020" y="308" width="154" height="74" rx="25" fill="#F2F8FF" stroke="#8FC4FF"/>
+  <text x="1080" y="338" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="23" font-weight="850">复制库</text>
+  <text x="1080" y="362" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">今日素材</text>
+  <rect x="1020" y="410" width="154" height="74" rx="25" fill="#F8FBFE" stroke="#DFEAF4"/>
+  <text x="1080" y="440" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="23" font-weight="850">暂停</text>
+  <text x="1080" y="464" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">正在捕获</text>
+  <rect x="1020" y="512" width="154" height="74" rx="25" fill="#F8FBFE" stroke="#DFEAF4"/>
+  <text x="1080" y="542" fill="#1D2A36" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="23" font-weight="850">Ob库</text>
+  <text x="1080" y="566" fill="#718295" font-family="Inter, PingFang SC, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">已入库</text>
+
+  <rect x="58" y="646" width="394" height="24" rx="12" fill="#E2EDF8"/>
+  <rect x="500" y="646" width="452" height="24" rx="12" fill="#E2EDF8"/>
+  <rect x="990" y="666" width="214" height="10" rx="5" fill="#D5E4F2"/>
+</svg>
