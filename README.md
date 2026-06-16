@@ -8,9 +8,9 @@
 
 ## 效果演示
 
-![ClipShelf preview](docs/images/clipshelf-preview.svg)
+![ClipShelf demo](docs/images/clipshelf-demo.gif)
 
-[观看 30 秒双语介绍视频 / Watch the 30s intro video](docs/videos/clipshelf-intro.mp4)
+[观看 30 秒高清双语介绍视频 / Watch the 30s HD intro video](docs/videos/clipshelf-intro.mp4)
 
 ## 适合谁
 
